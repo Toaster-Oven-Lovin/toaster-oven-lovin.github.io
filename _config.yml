@@ -2,5 +2,5 @@ title: Toaster Oven Lovin'
 description: App for students to share recipes
 theme: jekyll-theme-cayman
 github:
-  is_project_page: true
-  respiratory_url: https://github.com/Toaster-Oven-Lovin
+  is_organization_page: true
+  organization_url: https://github.com/Toaster-Oven-Lovin
