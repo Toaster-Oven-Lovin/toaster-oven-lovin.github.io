@@ -1,4 +1,6 @@
 title: Toaster Oven Lovin'
 description: App for students to share recipes
 theme: jekyll-theme-cayman
-
+github:
+  is_project_page: true
+  repository_url: https://github.com/bowfolios/bowfolios
