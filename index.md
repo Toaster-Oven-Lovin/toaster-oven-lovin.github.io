@@ -17,8 +17,7 @@ The solution: Healthy Manoa creates a way for students (on-campus or off) to lea
 * Weixiao Hu
 * Haochen Wang
 
-## M1
-[M1](https://github.com/orgs/healthy-manoa/projects/2)
+
  
   
 
