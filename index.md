@@ -25,10 +25,10 @@ The solution: Healthy Manoa creates a way for students (on-campus or off) to lea
 * Haochen Wang
 
 Landing Page
-![] (https://files.slack.com/files-pri/TLBCR22VD-FQDSQ2WUA/screenshot_20191120-091453_chrome.jpg)
+![](https://files.slack.com/files-pri/TLBCR22VD-FQDSQ2WUA/screenshot_20191120-091453_chrome.jpg)
 
 Vendor page
-![]https://files.slack.com/files-pri/TLBCR22VD-FQDSQ2WUA/screenshot_20191120-091453_chrome.jpg
+![](https://files.slack.com/files-pri/TLBCR22VD-FQDSQ2WUA/screenshot_20191120-091453_chrome.jpg)
 
 
   
