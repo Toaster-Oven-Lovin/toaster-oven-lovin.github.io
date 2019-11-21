@@ -16,6 +16,7 @@ The solution: Healthy Manoa creates a way for students (on-campus or off) to lea
 - [Project Milestone 1](https://github.com/healthy-manoa/project/projects/1)
 - [Project Milesonte 2](https://github.com/healthy-manoa/project/projects/2)
 - [Galaxy Page](https://healthymanoa.meteorapp.com)
+- [Project Board](https://github.com/healthy-manoa/project)
 
 ## Team Members
 * Rexter Delos-Santos
@@ -23,8 +24,13 @@ The solution: Healthy Manoa creates a way for students (on-campus or off) to lea
 * Weixiao Hu
 * Haochen Wang
 
+Landing Page
+![] (https://files.slack.com/files-pri/TLBCR22VD-FQDSQ2WUA/screenshot_20191120-091453_chrome.jpg)
 
- 
+Vendor page
+![]https://files.slack.com/files-pri/TLBCR22VD-FQDSQ2WUA/screenshot_20191120-091453_chrome.jpg
+
+
   
 
 
