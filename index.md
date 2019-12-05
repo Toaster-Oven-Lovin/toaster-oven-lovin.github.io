@@ -30,8 +30,6 @@ Landing Page
 
 Vendor Page
 
-![](https://files.slack.com/files-pri/TLBCR22VD-FQRCD2P1A/image.png)
-
 <img class="ui floated rounded image" src="/images/Vendor page.PNG"> 
 
 Inventory Page
