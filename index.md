@@ -32,6 +32,19 @@ Vendor Page
 
 ![](https://files.slack.com/files-pri/TLBCR22VD-FQRCD2P1A/image.png)
 
+<img class="ui floated rounded image" src="/images/Vendor page.PNG"> 
+
+Inventory Page
+
+<img class="ui floated rounded image" src="/images/Inventory page.PNG">
+
+Recipes Page
+
+<img class="ui floated rounded image" src="/images/Recipes page.PNG">
+
+Add/Edit Recipe
+<img class="ui floated rounded image" src="/images/Add Recipe page.PNG">
+<img class="ui floated rounded image" src="/images/Edit Recipe page.PNG">
 
   
 
