@@ -24,6 +24,11 @@ The solution: Healthy Manoa creates a way for students (on-campus or off) to lea
 * Weixiao Hu
 * Haochen Wang
 
+How to use this site:
+* Without signing in, you can see the vendors near UH as well as the full list of all the recipes on the site
+* Signing in allows you to create your own profile, upload recipes and if you are using a vendor account, you can create and manage inventories as well as your own vendor profile
+* Search bar in home page will search everything on the site
+
 Landing Page
 
 ![](https://files.slack.com/files-pri/TLBCR22VD-FQDSQ2WUA/screenshot_20191120-091453_chrome.jpg)
