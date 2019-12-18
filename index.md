@@ -148,6 +148,7 @@ Page for vendors to add inventory.
 * Too much options at the top of the page, incorporate buttons to their respective pages instead
 * Front page looks welcoming 
 * A map or link to google maps can help students figure out how to get to the stores
+*Add numbers for the steps to make it clearer
 
   
 
