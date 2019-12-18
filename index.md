@@ -94,6 +94,7 @@ I20191217-15:04:19.180(-10)?  Adding: Walmart
 * If you don't have account, you must sign up for account with email and password (As student or vendor).
 * Signing in allows you to create your own profile, upload recipes, and edited recipes.
 * Signing in as vendor, you can post your business as a vendor,and create and manage inventories as well.
+* To sign in as a test vendor, log in with the username: vendor@foo.com and the password: changeme
 * To test the admin functions, log in with the username: admin@foo.com and the password: changeme
 
 ## Landing Page
