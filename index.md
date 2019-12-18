@@ -34,6 +34,7 @@ meteor npm install
 ```
 meteor npm run start
 ```
+
 ```
 C:\Users\user\Documents\GitHub\project\app>meteor npm run start
 
@@ -81,6 +82,7 @@ I20191217-15:04:19.180(-10)?  Adding: Walmart
 => App running at: http://localhost:3000/
    Type Control-C twice to stop.
 ```
+
 * ALl development of the website is push to and storage at Github. 
 * Depoly the website through Galaxy from Github
 
