@@ -117,6 +117,7 @@ List of all recipes.
 ## Signin/Sign up Page
 <img class="ui floated rounded image" src="/images/signin.PNG">
 <img class="ui floated rounded image" src="/images/signup.PNG">
+<img class="ui floated rounded image" src="/images/edit password.PNG">
 
 ## Add/Edit Recipe
 Page to add recipe to recipe list.
@@ -131,9 +132,12 @@ Page for vendors to add inventory.
 
 ## Add/Edit Invertory
 
-<img class="ui floated rounded image" src="/images/editinventory.PNG">
+<img class="ui floated rounded image" src="/images/edit inventory.PNG">
 
 ## Add/Edit Vendor
+
+<img class="ui floated rounded image" src="/images/add vendor.PNG">
+<img class="ui floated rounded image" src="/images/edit vendor.PNG">
 
 ## Community Feedback
 
