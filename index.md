@@ -83,40 +83,43 @@ I20191217-15:04:19.180(-10)?  Adding: Walmart
    Type Control-C twice to stop.
 ```
 
-* ALl development of the website is push to and storage at Github. 
-* Depoly the website through Galaxy from Github
+* All development of the website is push to and storage at Github. 
+* Deploy the website through Galaxy from Github
 
 ## User Guide
 * Access the Healthy Manoa website, you will start at the home page (landing page).
 * Without signing in, you can see the vendors near UH as well as the full list of all the recipes on the site.
 * Search bar in home page will search everything (venders and recipes) on the site.
-* If you don't have account, you must signing up for account with email and password (As student or vender).
+* If you don't have account, you must sign up for account with email and password (As student or vender).
 * Signing in allows you to create your own profile, upload recipes, and edited recipes.
 * Signing in as vendor, you can post your business as a vendor,and create and manage inventories as well.
 
 ## Landing Page
 The home page will welcome the user to the Healthy Manoa with search bar.
+<img class="ui floated rounded image" src="/images/Vendor page.PNG">
 
-## About US Page
-
+## About Us Page
+The About Us page gives brief information on app and organization. Provides link to this page.
+<img class="ui floated rounded image" src="/images/Vendor page.PNG">
 
 ## Vendor Page
-List of all venders near UH, click on individual vendor will show more informanetion about the vender in details.
+List of all venders near UH.
 <img class="ui floated rounded image" src="/images/Vendor page.PNG"> 
 
 ## Recipes Page
-List of all recipes, click on individual recipe will show more informanetion about the recipe in details.
+List of all recipes.
 <img class="ui floated rounded image" src="/images/Recipes page.PNG">
 
 ## Signin/Sign up Page
+<img class="ui floated rounded image" src="/images/Vendor page.PNG">
 
 ## Add/Edit Recipe
-
+Page to add recipe to recipe list.
 <img class="ui floated rounded image" src="/images/Add Recipe page.PNG">
 <img class="ui floated rounded image" src="/images/Edit Recipe page.PNG">
 
 ## Inventory Page
-
+Page for vendors to add inventory.
 <img class="ui floated rounded image" src="/images/Inventory page.PNG">
 
 ## Add/Edit Invertory
@@ -124,6 +127,7 @@ List of all recipes, click on individual recipe will show more informanetion abo
 ## Add/Edit Vendor
 
 ## Community Feedback
+
 
   
 
