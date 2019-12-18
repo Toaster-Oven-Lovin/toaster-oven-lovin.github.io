@@ -31,7 +31,7 @@ The solution: Healthy Manoa creates a way for students (on-campus or off) to lea
 ```
 meteor npm install
 ```
-* Runing Meter on local computer and editing and developing the websit with code langauge (JavaScript, UI, React).
+* Running Meteor on local computer and editing and developing the website with code language (JavaScript, UI, React).
 ```
 meteor npm run start
 ```
@@ -90,8 +90,8 @@ I20191217-15:04:19.180(-10)?  Adding: Walmart
 ## User Guide
 * Access the Healthy Manoa website, you will start at the home page (landing page).
 * Without signing in, you can see the vendors near UH as well as the full list of all the recipes on the site.
-* Search bar in home page will search everything (venders and recipes) on the site.
-* If you don't have account, you must sign up for account with email and password (As student or vender).
+* Search bar in home page will search everything (vendors and recipes) on the site.
+* If you don't have account, you must sign up for account with email and password (As student or vendor).
 * Signing in allows you to create your own profile, upload recipes, and edited recipes.
 * Signing in as vendor, you can post your business as a vendor,and create and manage inventories as well.
 
@@ -106,7 +106,7 @@ The About Us page gives brief information on app and organization. Provides link
 <img class="ui floated rounded image" src="/images/About.PNG">
 
 ## Vendor Page
-List of all venders near UH.
+List of all vendors near UH.
 
 <img class="ui floated rounded image" src="/images/Vendor page.PNG"> 
 
@@ -141,6 +141,11 @@ Page for vendors to add inventory.
 <img class="ui floated rounded image" src="/images/edit vendor.PNG">
 
 ## Community Feedback
+
+* Background of inventory could be a different picture to match the theme of the site
+* Search bar can should be centered along with the button near it
+* Too much options at the top of the page, incorporate buttons to their respective pages instead
+* Front page looks welcoming 
 
 
   
