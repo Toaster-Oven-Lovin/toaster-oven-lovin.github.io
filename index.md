@@ -94,6 +94,7 @@ I20191217-15:04:19.180(-10)?  Adding: Walmart
 * If you don't have account, you must sign up for account with email and password (As student or vendor).
 * Signing in allows you to create your own profile, upload recipes, and edited recipes.
 * Signing in as vendor, you can post your business as a vendor,and create and manage inventories as well.
+* To test the admin functions, log in with the username: admin@foo.com and the password: changeme
 
 ## Landing Page
 The home page will welcome the user to the Healthy Manoa with search bar.
@@ -131,7 +132,7 @@ Page for vendors to add inventory.
 
 <img class="ui floated rounded image" src="/images/Inventory page.PNG">
 
-## Add/Edit Invertory
+## Add/Edit Inventory
 <img class="ui floated rounded image" src="/images/add inventory.PNG">
 <img class="ui floated rounded image" src="/images/edit inventory.PNG">
 
