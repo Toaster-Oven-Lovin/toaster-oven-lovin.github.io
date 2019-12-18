@@ -97,12 +97,12 @@ I20191217-15:04:19.180(-10)?  Adding: Walmart
 ## Landing Page
 The home page will welcome the user to the Healthy Manoa with search bar.
 
-<img class="ui floated rounded image" src="/images/Vendor page.PNG">
+<img class="ui floated rounded image" src="/images/landing.PNG">
 
 ## About Us Page
 The About Us page gives brief information on app and organization. Provides link to this page.
 
-<img class="ui floated rounded image" src="/images/Vendor page.PNG">
+<img class="ui floated rounded image" src="/images/About.PNG">
 
 ## Vendor Page
 List of all venders near UH.
@@ -115,7 +115,8 @@ List of all recipes.
 <img class="ui floated rounded image" src="/images/Recipes page.PNG">
 
 ## Signin/Sign up Page
-<img class="ui floated rounded image" src="/images/Vendor page.PNG">
+<img class="ui floated rounded image" src="/images/signin.PNG">
+<img class="ui floated rounded image" src="/images/signup.PNG">
 
 ## Add/Edit Recipe
 Page to add recipe to recipe list.
@@ -129,6 +130,8 @@ Page for vendors to add inventory.
 <img class="ui floated rounded image" src="/images/Inventory page.PNG">
 
 ## Add/Edit Invertory
+
+<img class="ui floated rounded image" src="/images/editinventory.PNG">
 
 ## Add/Edit Vendor
 
