@@ -146,7 +146,7 @@ Page for vendors to add inventory.
 * Search bar can should be centered along with the button near it
 * Too much options at the top of the page, incorporate buttons to their respective pages instead
 * Front page looks welcoming 
-
+* A map or link to google maps can help students figure out how to get to the stores
 
   
 
