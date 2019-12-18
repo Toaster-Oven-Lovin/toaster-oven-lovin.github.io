@@ -131,7 +131,7 @@ Page for vendors to add inventory.
 <img class="ui floated rounded image" src="/images/Inventory page.PNG">
 
 ## Add/Edit Invertory
-
+<img class="ui floated rounded image" src="/images/add inventory.PNG">
 <img class="ui floated rounded image" src="/images/edit inventory.PNG">
 
 ## Add/Edit Vendor
